@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# Others
+.project
+.cproject
+.DS_Store
