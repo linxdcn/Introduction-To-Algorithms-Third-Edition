@@ -20,5 +20,8 @@ This is my implementation for Introduction to Algorithms.
 |9  | [WorstLinear select](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/WorstLinearSelect) | C++ |
 |12  | [Binary search tree](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/BinarySearchTree) | C++ |
 |15  | [Cut rod](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/CutRod) | C++ |
+|15  | [Longest common subsequence](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/LCS) | C++ |
+|15  | [Matrix chain multiplication](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/MatrixChainMultiplication) | C++ |
+|15  | [Optimal binary search tree](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/OptimalBinarySearchTree) | C++ |
 
 
