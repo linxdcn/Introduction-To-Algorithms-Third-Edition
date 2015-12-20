@@ -23,5 +23,7 @@ This is my implementation for Introduction to Algorithms.
 |15  | [Longest common subsequence](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/LCS) | C++ |
 |15  | [Matrix chain multiplication](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/MatrixChainMultiplication) | C++ |
 |15  | [Optimal binary search tree](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/OptimalBinarySearchTree) | C++ |
+|16  | [Greedy activities selection](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/GreedyActivitySelection) | C++ |
+|16  | [Huffman](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/Huffman) | C++ |
 
 
