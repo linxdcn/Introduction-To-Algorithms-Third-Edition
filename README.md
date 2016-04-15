@@ -27,3 +27,4 @@ This is my implementation for Introduction to Algorithms.
 |16  | [Huffman](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/Huffman) | C++ |
 |22  | [BFS](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/BFS) | C++ |
 |22  | [DFS](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/DFS) | C++ |
+|22  | [SCC](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/SCC) | C++ |
