@@ -29,3 +29,4 @@ This is my implementation for Introduction to Algorithms.
 |22  | [DFS](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/DFS) | C++ |
 |22  | [SCC](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/SCC) | C++ |
 |23  | [MST Kruskal](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/MSTKruskal) | C++ |
+|23  | [MST Prim](https://github.com/linxdcn/Introduction-To-Algorithms-Third-Edition/tree/master/Introduction-To-Algorithms/MSTPrim) | C++ |
